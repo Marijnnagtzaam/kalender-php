@@ -1,3 +1,4 @@
+
 @import url(//fonts.googleapis.com/css?family=Open+Sans);
 @import url(//fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 
@@ -8,10 +9,6 @@
 body {
     margin: 0 auto;
     width: 50%;
-}
-
-header {
-  color: orange;
 }
 
 /*
@@ -81,7 +78,7 @@ a:hover {
 
 a + a {     /* delete links */
     color: red;
-    font-size: 80%;   
+    font-size: 80%;
     vertical-align: super;
 }
 
